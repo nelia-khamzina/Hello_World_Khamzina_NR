@@ -1,0 +1,5 @@
+full_num_capsule = int(input('Введите общее количество произведенных капсул: '))
+num_capsule = int(input('Введите количество капсул в одной упаковке: '))
+print('--- Отчет фасовочного цеха ---')
+print(f'Полных упаковок:\t{full_num_capsule // num_capsule}')
+print(f'Остаток капсул:\t{full_num_capsule % num_capsule}')

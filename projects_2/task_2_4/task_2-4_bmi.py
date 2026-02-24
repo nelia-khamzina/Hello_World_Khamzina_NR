@@ -1,0 +1,6 @@
+your_weight = float(input('Введите ваш вес (кг): '))
+your_height = float(input('Введите ваш рост (см): '))
+print('--- Отчет о состоянии здоровья ---')
+print(f'Вес:\t{your_weight} кг')
+print(f'Рост:\t{your_height} см')
+print(f'Индекс массы тела:\t{(your_weight / (your_height ** 2) * 10000):.2f}')

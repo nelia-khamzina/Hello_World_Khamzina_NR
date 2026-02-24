@@ -1,0 +1,8 @@
+name_ecquipment = input('Введите название прибора: ')
+inventory_number = input('Введите инвентарный номер: ')
+current_state = input('Введите состояние прибора (исправен или не исправен): ')
+count_ecquipment = input('Введите количество оборудования: ')
+print(f'Название прибора:\t{name_ecquipment}')
+print(f'Инвентарный номер:\t{inventory_number}')
+print(f'Состояние прибора:\t{current_state}')
+print(f'Количество оборудования:\t{count_ecquipment}')
