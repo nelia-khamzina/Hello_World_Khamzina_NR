@@ -1,0 +1,44 @@
+итого 2,8M
+drwxr-xr-x  38 root root 4,0K мар 11 23:40 .
+drwxr-xr-x  38 root root 4,0K мар 11 23:40 ..
+lrwxrwxrwx   1 root root    7 мая 16  2025 bin -> usr/bin
+drwxr-xr-x   3 root root 4,0K сен 13 21:17 boot
+drwxr-xr-x  13 root root 3,7K мар 11 23:40 dev
+drwxr-xr-x 129 root root  12K мар 11 23:40 etc
+drwxr-xr-x   3 root root 4,0K сен 13 21:04 home
+-rwxrwxrwx   1 root root 2,7M авг  6  2025 init
+lrwxrwxrwx   1 root root    7 мая 16  2025 lib -> usr/lib
+lrwxrwxrwx   1 root root    9 мая 16  2025 lib64 -> usr/lib64
+drwx------   2 root root  16K сен 13 21:03 lost+found
+drwxr-xr-x   2 root root 4,0K июн 10  2025 media
+drwxr-xr-x   6 root root 4,0K сен 13 21:03 mnt
+drwxr-xr-x   2 root root 4,0K июн 10  2025 opt
+dr-xr-xr-x 308 root root    0 мар 11 23:40 proc
+drwx------   5 root root 4,0K фев 26 14:56 root
+drwxr-xr-x  20 root root  540 мар 11 23:41 run
+lrwxrwxrwx   1 root root    8 мая 16  2025 sbin -> usr/sbin
+drwxr-xr-x   2 root root 4,0K июн 10  2025 srv
+dr-xr-xr-x  13 root root    0 мар 11 23:53 sys
+drwxrwxrwt  40 root root 4,0K мар 11 23:42 tmp
+drwxr-xr-x  12 root root 4,0K июн 10  2025 usr
+drwxr-xr-x  11 root root 4,0K сен 13 21:03 var
+drwx------   2 root root 4,0K окт  4 13:11 wslBJiEOP
+drwx------   2 root root 4,0K фев 12 16:14 wslBmgLpD
+drwx------   2 root root 4,0K фев 19 14:47 wslCgePek
+drwx------   2 root root 4,0K фев 19 14:47 wsldhdecj
+drwx------   2 root root 4,0K окт  4 13:11 wsleJhPNa
+drwx------   2 root root 4,0K фев 12 16:14 wslFmdFAE
+drwx------   2 root root 4,0K фев 12 16:14 wslIJIemA
+drwx------   2 root root 4,0K фев 12 16:14 wslImEEkD
+drwx------   2 root root 4,0K фев 21 10:11 wslJBECDb
+drwx------   2 root root 4,0K фев 12 16:14 wslkIldoD
+drwx------   2 root root 4,0K окт  4 13:11 wslLDliOa
+drwx------   2 root root 4,0K фев 21 10:11 wsllNamCb
+drwx------   2 root root 4,0K фев 21 10:11 wslmbDGFa
+drwx------   2 root root 4,0K окт  4 13:11 wslMnIgOa
+drwx------   2 root root 4,0K фев 21 10:11 wslnAdLBb
+drwx------   2 root root 4,0K фев 19 14:47 wslnbnKdk
+drwx------   2 root root 4,0K фев 19 14:47 wslnckDfk
+drwx------   2 root root 4,0K фев 19 14:47 wslopnAfk
+drwx------   2 root root 4,0K окт  4 13:11 wslpggbOa
+drwx------   2 root root 4,0K фев 21 10:11 wslpkcEDb
