@@ -1,0 +1,8 @@
+Boars average age_years is 4.66
+Boars average weight_kg is 69.74
+Boars average length_cm is 149.76
+Boars average shoulder_height_cm is 79.60
+Boars average tusk_length_cm is 10.25
+Boars average litter_size is 3.91
+Boars average health_score is 75.15
+Boars average territory_ha is 4.24
