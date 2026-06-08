@@ -1,0 +1,2 @@
+Male coefficient of variation is 18.97 %
+Female coefficient of variation is 15.42 %
