@@ -1,0 +1,8 @@
+Boars mode age_years is [5.9]
+Boars mode weight_kg is [63.5]
+Boars mode length_cm is [210.]
+Boars mode shoulder_height_cm is [80.4]
+Boars mode tusk_length_cm is [0.  6.6 8.2 8.7 9.2 9.4]
+Boars mode litter_size is [0.]
+Boars mode health_score is [100]
+Boars mode territory_ha is [0.8]
