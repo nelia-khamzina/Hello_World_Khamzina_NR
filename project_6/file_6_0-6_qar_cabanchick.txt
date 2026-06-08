@@ -1,0 +1,8 @@
+Male Q1 (25%): 128.7 kg
+Male Q3 (75%): 163.4 kg
+Male IQR: 34.7 kg
+
+Female Q1 (25%): 133.9 kg
+Female Q3 (75%): 170.2 kg
+Female IQR: 36.4 kg
+
